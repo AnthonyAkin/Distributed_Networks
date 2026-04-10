@@ -1,0 +1,17 @@
+16 18
+A B,8
+B 
+C G,2 P,4
+D 
+E N,3
+F D,5 L,5
+G F,3
+H J,6 N,9
+I 
+J 
+K 
+L 
+M B,8 F,6
+N A,3 J,1
+O B,10 G,9 L,6
+P N,8 O,3
